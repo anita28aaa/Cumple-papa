@@ -6,3 +6,4 @@ theme:
     accent: indigo
   features:
     - navigation.tabs # Esto pone el menú arriba tipo pestaña, queda mucho mejor
+use_directory_urls: false
